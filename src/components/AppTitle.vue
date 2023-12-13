@@ -14,6 +14,6 @@ export default {
 
 <style>
 .text-color {
-  color: rgba(251, 251, 251, 0.557);
+  color: rgba(251, 251, 251, 0.7);
 }
 </style>
